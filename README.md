@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lisa!</h1>
 <h3 align="center">An IT student who is interested on Data Science. I also love doing travel and hunting for new things ✨</h3>
 
-- 🌱 I’m currently learning **UI/UX, Programming, Networking.**
+- 🌱 I’m currently learning **about UI/UX, Programming, and also Networking on my class;**
 
-- 💬 Ask me about **whatever you want to know**
+- 💬 Ask me about **whatever you want to know;**
 
 - 📫 How to reach me **lisatriutari@students.usu.ac.id**
 
