@@ -3,11 +3,13 @@
 
 - 🌱 I’m currently learning **UI/UX, Programming, Networking.**
 
-- 💬 Ask me about **Whatever you want to know**
+- 💬 Ask me about **whatever you want to know**
 
 - 📫 How to reach me **lisatriutari@students.usu.ac.id**
 
 - ⚡ Fun fact **I like building bricks and collecting some Pop Mart Figures 😆**
+
+- 🔥 Motto **Whatever you do, there is an impact.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
