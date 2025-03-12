@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lisa!</h1>
-<h3 align="center">An IT student who is interested on Data Science. I also like doing travel and hunting for new things ✨</h3>
+<h3 align="center">An IT student who is interested on Data Science. I also love doing travel and hunting for new things ✨</h3>
 
 - 🌱 I’m currently learning **UI/UX, Programming, Networking.**
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **lisatriutari@students.usu.ac.id**
 
-- ⚡ Fun fact **I love building bricks and collecting some Pop Mart Figures 😆**
+- ⚡ Fun fact **I like building bricks and collecting some Pop Mart Figures 😆**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
