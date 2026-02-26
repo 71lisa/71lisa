@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lisa!</h1>
 <h3 align="center">An IT student who is interested on Data Science. I also love doing travel and hunting for new things ✨</h3>
 
-- 🌱 I’m currently learning **about UI/UX, Programming, and also Networking on my class;**
+- 🌱 I’m currently learning **about UI/UX, Programming, Data, and also Networking;**
 
 - 💬 Ask me about **whatever you want to know;**
 
